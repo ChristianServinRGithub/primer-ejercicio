@@ -5,3 +5,10 @@ header {
 P {
     color: #000000;
 }
+body {
+    text-align: center;
+}
+
+#parrafo-2 {
+    color: blue;
+}
